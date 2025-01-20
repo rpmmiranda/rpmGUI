@@ -1,0 +1,11 @@
+1) zig init
+
+2) create yout code. Remember that: "main.zig" is to test as application you module
+                                   "root.zig" is the entry-point to yout module
+
+
+3) modify the version in the file build.zig
+
+
+4) zig build
+
